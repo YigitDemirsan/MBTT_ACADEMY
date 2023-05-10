@@ -43,7 +43,7 @@ public class Main {
         return minutes.get(0);
     }
     public static int secondFastest(ArrayList<Integer> minutes){
-        System.out.println(minutes);
+        //System.out.println(minutes);
         return minutes.get(1);
     }
 }
